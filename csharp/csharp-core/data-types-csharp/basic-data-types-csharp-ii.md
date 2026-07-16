@@ -20,7 +20,7 @@ revisionQuestion:
 
 
 Integers are whole numbers such as `1`, `2`, `-30`, `9999`:
-```cpp
+```csharp
 int number = 10;
 Console.WriteLine(number);
 // 10
@@ -30,7 +30,7 @@ Console.WriteLine(number);
 ---
 
 The `double` type represents floating-point numbers, which is any number that contains a decimal point.
-```cpp
+```csharp
 double number = 10.5;
 Console.WriteLine(number);
 // 10.5

@@ -37,7 +37,7 @@ else{
   Console.WriteLine("You are not an adult.");
 }
 
-// You are an adult
+// You are an adult.
 ```
 
 > 💬 Can you decipher the code? What will happen if `age = 65`?
@@ -94,4 +94,4 @@ else{
 
 - `age`
 - `>=`
-- `<=` 
+- `<=`
