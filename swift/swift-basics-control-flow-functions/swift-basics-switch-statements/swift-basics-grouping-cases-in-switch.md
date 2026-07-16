@@ -20,6 +20,8 @@ revisionQuestion:
 You can group cases to handle similar conditions.
 
 ```swift
+let fruit = "pear"
+
 switch fruit {
   case "apple", "pear":
     print("You have a pome fruit.")
@@ -50,6 +52,8 @@ Use ??? between case values
 What will be printed if `fruit` is "pear"?
 
 ```swift
+let fruit = "pear"
+
 switch fruit {
 case "apple", "pear":
     print("You have a pome fruit.")
