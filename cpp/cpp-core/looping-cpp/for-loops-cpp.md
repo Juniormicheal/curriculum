@@ -17,7 +17,7 @@ Here's a basic `for` loop that prints the numbers from 1 through 10:
 
 int main() {
   for(int i = 1; i <= 10; i++) {
-    printf(i);
+    printf("%d", i);
   }
   return 0;
 }
