@@ -23,6 +23,9 @@ Error handling in Swift is like having a safety net. It ensures your app doesn't
 - Provide clear messages to guide the user.
 
 ```swift
+let firstNumber = 10
+let secondNumber = 2
+
 if secondNumber != 0 {
     print("Result: \(firstNumber / secondNumber)")
 } else {
