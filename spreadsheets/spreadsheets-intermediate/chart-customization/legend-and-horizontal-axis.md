@@ -19,7 +19,7 @@ In the `Legend` tab you can:
 - change its position
 - change its appearance
 
-Let' add the Legend to the top of the chart, change its font to `Sans Serif` and add the `Bold` formatting.
+Let's add the Legend to the top of the chart, change its font to `Sans Serif` and add the `Bold` formatting.
 
 ![legend](https://img.enkipro.com/3af131f04ab23f8f0048ca597358558b.png)
 
