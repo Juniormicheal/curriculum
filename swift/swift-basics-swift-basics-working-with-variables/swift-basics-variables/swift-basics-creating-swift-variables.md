@@ -19,7 +19,7 @@ revisionQuestion:
 
 In Swift, you create a variable using the `var` keyword.
 
-> 💡 A word like `var` means something in Swift so it's called a *keyword* while a word like `Enki` doesn't and is not a keyword.
+> 💡 A word like `var` means something in Swift, so it's called a *keyword*. A word like `Enki` doesn't, so it isn't a keyword.
 
 Here's how you can create a variable to store your favorite color:
 
