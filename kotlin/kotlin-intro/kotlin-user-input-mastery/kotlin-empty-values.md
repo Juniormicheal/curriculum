@@ -19,7 +19,7 @@ revisionQuestion:
 
 In Kotlin, `null` represents the absence of a value.
 
-In other words, if a value is missing, it's value is `null`.
+In other words, if a value is missing, its value is `null`.
 
 A variable can only hold `null` if it is explicitly declared as a nullable type using the `?` symbol.
 
@@ -28,7 +28,7 @@ val name: String? = null // Nullable String
 val age: Int? = null     // Nullable Int
 ```
 
-If you try to assign null to a non-nullable type, Kotlin will throw an error.
+If you try to assign null to a non-nullable type, Kotlin will show a compilation error.
 
 ```kotlin
 val name: String = null // ❌ Compilation Error
@@ -68,5 +68,4 @@ val name: ??? = null
 - `String?`
 - `null`
 - `String#`
-
 
