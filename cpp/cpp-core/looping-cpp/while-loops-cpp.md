@@ -23,7 +23,7 @@ A `while` loop continues executing the code block as long as the condition is tr
 ```cpp
 int i = 1;
 while(i <= 5) {
-    printf(i);
+    printf("%d", i);
     i++;
 }
 // Output: 12345
