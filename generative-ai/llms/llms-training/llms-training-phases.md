@@ -34,8 +34,8 @@ This process repeats billions of times for each word in the training data.
 The ??? pass is the one that adjusts the weights.
 The ??? pass is the one that predicts the next word.
 
-- forward
 - backward
+- forward
 
 ---
 
