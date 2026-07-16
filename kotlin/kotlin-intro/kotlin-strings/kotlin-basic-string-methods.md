@@ -19,27 +19,27 @@ revisionQuestion:
 
 Kotlin offers methods to manipulate strings, like changing case or finding length.
 
-- Transform text (using `toUpperCase()`, `toLowerCase()`, `trim()`)
+- Transform text (using `uppercase()`, `lowercase()`, `trim()`)
 - Search within text (with `contains()`, `indexOf()`, `startsWith()`)
 - Extract information (via `substring()`, `split()`)
 - Format data (through `format()`, `padStart()`, `padEnd()`)
 
 
 ```kotlin
-var language = "Kotlin"
-println(text.toUpperCase()) // Outputs: KOTLIN
-
+val language = "Kotlin"
 val text = "I am learning $language"
+
+println(text.uppercase()) // Outputs: I AM LEARNING KOTLIN
 println(text.length) // Outputs: 20
 
 // check if the text contains the word "Kotlin"
 println(text.contains("Kotlin")) // Outputs: true
 
 // position in text where "Kotlin" starts
-println(text.indexOf("Kotlin")) // Outputs: 10
+println(text.indexOf("Kotlin")) // Outputs: 14
 
-// extract the chunk of text starting at position 10
-println(text.substring(10)) // Outputs: Kotlin
+// extract the chunk of text starting at position 14
+println(text.substring(14)) // Outputs: Kotlin
 
 // split the text into a list of words
 println(text.split(" ")) // Outputs: [I, am, learning, Kotlin]
@@ -50,7 +50,7 @@ println(text.split(" ")) // Outputs: [I, am, learning, Kotlin]
 ---
 ## Practice
 
-What does `"world".toUpperCase()` return?
+What does `"world".uppercase()` return?
 
 ???
 
@@ -69,5 +69,3 @@ The `length` method returns the ??? of characters in a string.
 - `number`
 - `type`
 - `color`
-
-
