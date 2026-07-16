@@ -32,10 +32,10 @@ func greetUser(name: String) {
 Call the function with a name:
 
 ```swift
-greetUser("Enki") // Prints: Hello, Enki!
+greetUser(name: "Enki") // Prints: Hello, Enki!
 ```
 
-> This is how `print` works. It accepts a `String` parameter and shows it on the screen: `print("Hello!")
+> This is how `print` works. It accepts a `String` parameter and shows it on the screen: `print("Hello!")`
 
 ---
 ## Practice
@@ -49,8 +49,8 @@ Finish the code to greet the user by name:
 ```
 
 - func
-- function
 - name: String
+- function
 - name: Text
 
 ---
@@ -62,7 +62,7 @@ What will be printed by the following code?
 func greetUser(name: String) {
     print("Hello, \(name)!")
 }
-greetUser("Bob")
+greetUser(name: "Bob")
 ```
 
 ???
