@@ -47,10 +47,9 @@ fun String.isUpperCase(): Boolean {
 }
 ```
 
-???
 
-- `this == this.toUpperCase()`
-- `this == this.toLowerCase()`
+- `this == this.uppercase()`
+- `this == this.lowercase()`
 - `this.isEmpty()`
 
 ---
@@ -69,4 +68,3 @@ C) A function that deletes existing methods from a class.
 - `B`
 - `A`
 - `C`
-
