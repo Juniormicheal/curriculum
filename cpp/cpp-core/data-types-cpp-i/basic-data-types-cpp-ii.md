@@ -28,7 +28,7 @@ std::cout << letter;
 
 To store sequences of characters, also called *strings*, we first need to import its library:
 ```cpp
-#include <string>;
+#include <string>
 
 std::string greeting = "Hello, world!";
 std::cout << greeting;
@@ -52,10 +52,10 @@ Complete the following code snippet by declaring a `string` variable named `name
 ---
 ## Revision
 
-Complete the following code snippet by declaring a `char` variable named `letter` and assigning it a value of `"A"`.
+Complete the following code snippet by declaring a `char` variable named `letter` and assigning it a value of `'A'`.
 
-```csharp
-??? ??? = "A";
+```cpp
+??? ??? = 'A';
 ```
 
 - `char`
