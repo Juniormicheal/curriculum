@@ -17,7 +17,7 @@ practiceQuestion:
 ## Content
 
 The `bool` type is used to represent boolean values, which are either `true` or `false`.
-```cpp
+```csharp
 bool isTrue = true;
 Console.WriteLine(isTrue);
 // true
