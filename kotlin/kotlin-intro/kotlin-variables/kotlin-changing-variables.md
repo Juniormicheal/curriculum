@@ -51,7 +51,7 @@ How do you update a variable?
 ---
 ## Revision
 
-Finish the code such that it doesn't lead to not an error:
+Finish the code so that it doesn't cause an error:
 
 ```kotlin
 ??? name = "Kotlin"
@@ -62,5 +62,4 @@ name = "Java"
 - var
 - dec
 - fun
-
 
