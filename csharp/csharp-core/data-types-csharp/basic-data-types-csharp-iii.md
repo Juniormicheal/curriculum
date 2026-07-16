@@ -53,10 +53,10 @@ Complete the following code snippet by declaring a `string` variable called `nam
 ---
 ## Revision
 
-Complete the following code snippet by declaring a `char` variable named `c` and assigning it a value of `"A"`.
+Complete the following code snippet by declaring a `char` variable named `c` and assigning it a value of `'A'`.
 
 ```csharp
-??? c = "???";
+??? c = '???';
 ```
 
 - `char`
