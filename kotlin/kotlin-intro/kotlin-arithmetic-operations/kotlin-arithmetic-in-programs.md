@@ -23,7 +23,7 @@ Arithmetic operations are crucial for real-world tasks like calculating a delive
 val bill = 100
 val tipPercent = 15
 
-val totalWithTip = totalBill + (totalBill * tipPercent / 100) // Add tip
+val totalWithTip = bill + (bill * tipPercent / 100) // Add tip
 println(totalWithTip) // 115
 ```
 
@@ -64,5 +64,4 @@ println(result)
 - `24`
 - `30`
 - `18`
-
 
