@@ -32,26 +32,31 @@ for row in 1...rows {
 This will print a seat number for each position in the theater:
 
 ```
-Row 1, Column 1
-Row 1, Column 2
+Seat: Row 1, Column 1
+Seat: Row 1, Column 2
+Seat: Row 1, Column 3
+Seat: Row 1, Column 4
 ---
-
-Row 2, Column 1, Row 2, Column 2, ...
-
-````
+Seat: Row 2, Column 1
+Seat: Row 2, Column 2
+...
+```
 
 ---
 ## Practice
 
-How many times will the inner loop run if there are 3 rows and 4 columns?
+How many seat lines will print if there are 3 rows and 4 columns?
 
 ```swift
+let rows = 3
+let columns = 4
+
 for row in 1...rows {
     for column in 1...columns {
         print("Seat: Row \(row), Column \(column)")
     }
 }
-````
+```
 
 ???
 
