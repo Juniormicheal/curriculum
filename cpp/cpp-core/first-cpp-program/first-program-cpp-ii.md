@@ -27,7 +27,7 @@ Assuming you named it `hello.cpp`, we can then compile our C++ program with:
 g++ -o helloProgram hello.cpp # For Mac/Linux
 g++ -o helloProgram.exe hello.cpp # For Windows
 ```
-This will create an executable called `helloProgram.exe`.b
+This will create an executable called `helloProgram`, or `helloProgram.exe` on Windows.
 We can then run our compiled C++ code in the console with:
 ```bash
 ./helloProgram # For Mac/Linux
@@ -41,7 +41,7 @@ Great work! You're well on your way to becoming a C++ master!
 ---
 ## Practice
 
-Which command is used to run a script file called `hello.cpp` in **C++**?
+Which command is used to compile a source file called `hello.cpp` in **C++**?
 
 ```bash
 ??? hello.cpp
@@ -55,7 +55,7 @@ Which command is used to run a script file called `hello.cpp` in **C++**?
 ---
 ## Revision
 
-Which command is used to run a script file called `hello.cpp` in **C++**?
+Which command is used to compile a source file called `hello.cpp` in **C++**?
 
 ```bash
 ??? hello.cpp
