@@ -46,7 +46,7 @@ class Program
 Which function is used to print text to the screen in **C#**?
 
 ```csharp
-???("Hello, World!")
+???("Hello, World!");
 ```
 
 - `Console.WriteLine`
