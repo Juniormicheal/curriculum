@@ -52,7 +52,7 @@ Which of the following is **NOT** a way to create a variable in **C#**?
 ## Revision
 
 Finish the code to create a new integer variable called `c` by summing the values of the `a` and `b` variables. Print the new variable.
-```cpp
+```csharp
 int a = 3;
 int b = 7;
 
