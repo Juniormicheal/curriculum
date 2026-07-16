@@ -26,4 +26,4 @@ Console.WriteLine("Hello, World!");
 
 Compiling and Executing our code is as simple as pressing the Run button in Visual Studio!
 
-If all is working, you should see `"Hello World"` printed to the console!
+If all is working, you should see `"Hello, World!"` printed to the console!
