@@ -49,7 +49,7 @@ input.bufferedReader().use { reader ->
 Complete the code to read a file safely:
 
 ```kotlin
-File("data.txt").????.??? { reader ->
+File("data.txt").???.??? { reader ->
     val text = reader.readText()
     println(text)
 }
