@@ -56,12 +56,12 @@ if (??? ??? 3) { // true
 
 ## Revision
 
-Finish the code to to make the comment true:
+Finish the code to make the comment true:
 
 ```csharp
 int ??? = 3;
 if (num ??? 2) {
-  Console.WriteLine("num doesn't equal " + num);
+  Console.WriteLine("num doesn't equal 2");
 }
 // Output: num doesn't equal 2
 
