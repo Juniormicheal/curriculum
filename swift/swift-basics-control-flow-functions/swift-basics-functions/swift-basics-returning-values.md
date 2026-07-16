@@ -57,7 +57,7 @@ func addNumbers(a: Int, b: Int) -> Int {
     return a + b
 }
 
-let result = addNumbers(2, 3)
+let result = addNumbers(a: 2, b: 3)
 ```
 
 ???
