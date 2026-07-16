@@ -57,9 +57,9 @@ val name = user??? ?: "Unknown"
 val age = user?.age ??? 0
 ```
 
-- `.name`
-- `?:`
 - `?.name`
+- `?:`
+- `.name`
 - `!!`
 
 ---
