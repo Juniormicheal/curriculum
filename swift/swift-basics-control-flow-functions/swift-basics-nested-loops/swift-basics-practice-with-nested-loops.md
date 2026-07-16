@@ -21,26 +21,30 @@ Nested loops make it easy to tackle multi-layered tasks, like generating a multi
 
 Example output:
 
-```swift
+```plain-text
 1 x 1 = 1
 1 x 2 = 2
 1 x 3 = 3
 ---
-## 2 x 1 = 2 2 x 2 = 4 2 x 3 = 6
-
-## 3 x 1 = 3 3 x 2 = 6 3 x 3 = 9
-
-````
+2 x 1 = 2
+2 x 2 = 4
+2 x 3 = 6
+---
+3 x 1 = 3
+3 x 2 = 6
+3 x 3 = 9
+---
+```
 Here's code that can get you started:
 
 ```swift
-for row in 1...X {
-    for column in 1...X {
+for row in 1...3 {
+    for column in 1...3 {
         // hint, use string interpolation and multiplication here
     }
     print("---") // Separates each row for clarity
 }
-````
+```
 
 > Leave a comment with your answer or view others for inspiration.
 
