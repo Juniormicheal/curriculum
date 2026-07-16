@@ -39,7 +39,7 @@ Console.WriteLine("num is equal to " + num);
 
 Print a message to the console without adding a newline character after the message:
 ```csharp
-???("Hello, world!")
+???("Hello, world!");
 ```
 
 - `Console.Write`
@@ -50,7 +50,7 @@ Print a message to the console without adding a newline character after the mess
 
 Print a message to the console and move to a new line:
 ```csharp
-???("Hello, world!")
+???("Hello, world!");
 ```
 
 - `Console.WriteLine`
