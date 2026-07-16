@@ -42,7 +42,7 @@ When it does, it will set `didReceiveMessage` to `false`, which will stop the lo
 ---
 ## Practice
 
-Lets print "still running" over and over until the user types in "done".
+Let's print "still running" over and over until the user types in "done".
 
 Pick the correct code to do this:
 
