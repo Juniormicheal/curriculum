@@ -26,11 +26,11 @@ We can check if a list contains a certain element with `.Contains()`:
 List<int> numbers = new List<int>();
 numbers.Add(6);
 
-Console.WriteLine(numbers.Contains(6))
+Console.WriteLine(numbers.Contains(6));
 // Output: True
 
 
-Console.WriteLine(numbers.Contains(12))
+Console.WriteLine(numbers.Contains(12));
 // Output: False
 ```
 
@@ -40,7 +40,7 @@ Console.WriteLine(numbers.Contains(12))
 
 ## Practice
 
-Given the `nums` array:
+Given the `nums` list:
 
 ```csharp
 List<int> nums = new List<int>();
@@ -49,7 +49,7 @@ List<int> nums = new List<int>();
 Fill in the code to add 13 to it then check if it has that value:
 ```csharp
 ???.???(13);
-Console.WriteLine("Has 13: " + numbers.Contains(13));
+Console.WriteLine("Has 13: " + nums.Contains(13));
 ```
 
 - nums
@@ -61,7 +61,7 @@ Console.WriteLine("Has 13: " + numbers.Contains(13));
 
 ## Revision
 
-Given the `nums` array:
+Given the `nums` list:
 
 ```csharp
 List<int> nums = new List<int>();
@@ -70,7 +70,7 @@ List<int> nums = new List<int>();
 Fill in the code to add 13 to it then check if it has that value:
 ```csharp
 ???.???(13);
-Console.WriteLine("Has 13: " + numbers.Contain(13));
+Console.WriteLine("Has 13: " + nums.Contains(13));
 ```
 
 - nums
