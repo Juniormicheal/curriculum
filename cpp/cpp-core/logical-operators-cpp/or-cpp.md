@@ -27,9 +27,9 @@ bool a = true;
 bool b = false;
 
 if(a || b) {
-  printf("Either a or b is true.")
+  printf("Either a or b is true.");
 } else {
-  printf("Both a and b are false.")
+  printf("Both a and b are false.");
 }
 // Output: "Either a or b is true."
 ```
@@ -45,9 +45,9 @@ bool a = true;
 bool b = false;
 
 if(a || b) {
-  printf("Either a, b or both a and b are true.")
+  printf("Either a, b or both a and b are true.");
 } else {
-  printf("Both a and b are false.")
+  printf("Both a and b are false.");
 }
 // Output: ???
 ```
@@ -66,12 +66,12 @@ bool a = false;
 bool b = false;
 
 if(a || b) {
-  printf("Either a, b or both a and b are true.")
+  printf("Either a, b or both a and b are true.");
 } else {
-  printf("Both a and b are false.")
+  printf("Both a and b are false.");
 }
 ```
 ???
 
-- "Both a and b is false."
+- "Both a and b are false."
 - "Either a, b or both a and b are true."
