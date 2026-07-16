@@ -4,7 +4,7 @@ type: normal
 category: how-to
 links:
   - >-
-    [UNIQUE](https://support.google.com/docs/answer/3093198?hl=en){documentation}
+    [UNIQUE](https://support.google.com/docs/answer/10522653){documentation}
 practiceQuestion:
   formats:
     - fill-in-the-gap
