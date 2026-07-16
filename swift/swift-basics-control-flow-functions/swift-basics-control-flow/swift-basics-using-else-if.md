@@ -22,6 +22,8 @@ The `else-if` statement extends your decision-making by allowing you to check mu
 It gives your program even more flexibility to handle specific scenarios beyond just one “true” or “false” outcome.
 
 ```swift
+let temperature = 25
+
 if temperature > 30 {
     print("It's a hot day!")
 } else if temperature > 20 {
