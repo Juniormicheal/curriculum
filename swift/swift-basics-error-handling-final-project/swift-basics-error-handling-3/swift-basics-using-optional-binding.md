@@ -24,6 +24,8 @@ Think of it like checking if a light switch is on before entering a room. If it'
 Here's how you use optional binding:
 
 ```swift
+let gift: String? = "Book"
+
 if let actualGift = gift {
     print("Received: \(actualGift)")
 } else {
