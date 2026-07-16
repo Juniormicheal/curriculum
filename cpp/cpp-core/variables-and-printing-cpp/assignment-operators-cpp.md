@@ -52,7 +52,7 @@ Which operator is used to assign a value to a variable in **C++**?
 
 What value will `y` hold?
 
-```r
+```cpp
 int y = 10;
 y *= 2;
 ```
