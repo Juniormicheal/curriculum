@@ -40,7 +40,7 @@ If you need to store your floating-point number more precisely, you can also use
 Complete the following code snippet by declaring a floating-point variable named `pi` and assigning it a value of `3.14`.
 
 ```cpp
-??? pi = "???";
+??? pi = ???;
 ```
 
 - `float`
@@ -70,4 +70,3 @@ Complete the following code snippet by declaring an `int` variable named `age` a
 [1: Double]
 
 A `double` is a data type used to store floating-point numbers with double precision, providing approximately 15 to 16 decimal digits of accuracy. In contrast, a `float` is a data type with single precision, offering about 7 decimal digits of accuracy.
-
