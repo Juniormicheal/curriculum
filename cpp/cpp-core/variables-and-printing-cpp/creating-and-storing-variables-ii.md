@@ -22,7 +22,7 @@ revisionQuestion:
 
 You can also create variables using other variables:
 ```cpp
-int x = 3
+int x = 3;
 int a = x + 12;
 std::cout << a;
 // Outputs: 15

@@ -39,9 +39,9 @@ revisionQuestion:
 Finish the code to output "num is greater than or equal to 3" if the condition evaluates to `true`.
 
 ```cpp
-int num = 5;
+int num = 3;
 if (??? ??? 3) { // true
-  std::cout << "num is greater than or equal to 3" << num;
+  std::cout << "num is greater than or equal to " << num;
 }
 // num is greater than or equal to 3
 ```
@@ -56,18 +56,18 @@ if (??? ??? 3) { // true
 
 ## Revision
 
-Finish the code to to make the comment true:
+Finish the code to make the comment true:
 
 ```cpp
 int num = 3;
 if (num ??? 2) {
-  std::cout << ??? << num << std::endl;
+  std::cout << "num doesn't equal " << ??? << std::endl;
 }
 // num doesn't equal 2
 
 ```
 
 - !=
-- "num doesn't equal "
-- "num equals "
+- 2
+- num
 - ==

@@ -54,7 +54,7 @@ Complete the code to add logging while chaining operations:
 ```kotlin
 val list = mutableListOf(1, 2)
     .??? { println("Before: $it") }
-    .add(3)
+    .also { it.add(3) }
     .??? { println("After: $it") }
 ```
 

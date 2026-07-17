@@ -20,13 +20,13 @@ revisionQuestion:
 
 ## Content
 
-We can remove the first occurance of an element using `.Remove(element)`, or remove all elements with `.Clear()`:
+We can remove the first occurrence of an element using `.Remove(element)`, or remove all elements with `.Clear()`:
 
 ```csharp
 List<int> numbers = new List<int>();
 
 numbers.Add(1);
-numbers.Add(3)
+numbers.Add(3);
 Console.WriteLine("Count: " + numbers.Count);
 // Output: Count: 2
 
@@ -34,7 +34,7 @@ numbers.Remove(3);
 Console.WriteLine("Count: " + numbers.Count);
 // Output: Count: 1
 
-numbers.Clear()
+numbers.Clear();
 Console.WriteLine("Count: " + numbers.Count);
 // Output: Count: 0
 ```
@@ -45,7 +45,7 @@ Console.WriteLine("Count: " + numbers.Count);
 
 ## Practice
 
-Given the `nums` array:
+Given the `nums` list:
 
 ```csharp
 List<int> nums = new List<int>();
@@ -66,7 +66,7 @@ nums.???(???);
 ---
 
 ## Revision
-Given the `nums` array:
+Given the `nums` list:
 
 ```csharp
 List<int> nums = new List<int>();

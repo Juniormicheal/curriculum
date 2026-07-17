@@ -56,7 +56,7 @@ fun main() {
 
 ## Practice
 
-Complete the code to filter out negative numbers:
+Complete the code to keep only positive numbers:
 
 ```kotlin
 val numbers = listOf(-2, -1, 0, 1, 2)

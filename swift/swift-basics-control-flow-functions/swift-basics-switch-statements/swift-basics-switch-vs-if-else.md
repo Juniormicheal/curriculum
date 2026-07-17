@@ -21,6 +21,8 @@ Switch statements offer a clearer way to handle multiple conditions compared to 
 
 ```swift
 // Using else-if
+let weather = "sunny"
+
 if weather == "sunny" {
     print("Go for a walk!")
 } else if weather == "rainy" {
@@ -33,6 +35,8 @@ if weather == "sunny" {
 ```
 ```swift
 // Using switch
+let weather = "sunny"
+
 switch weather {
   case "sunny":
     print("Go for a walk!")
@@ -45,7 +49,7 @@ switch weather {
 }
 ```
 
-There are a lot less characters in the `switch` code which means your brain has to do less work to follow along.
+There are fewer characters in the `switch` code, which means your brain has to do less work to follow along.
 
 ---
 ## Practice
@@ -65,6 +69,8 @@ What is one major advantage of using a switch statement over an else-if chain?
 What will be printed if `weather` is "snowy"?
 
 ```swift
+let weather = "snowy"
+
 switch weather {
 case "sunny":
     print("Go for a walk!")

@@ -61,7 +61,7 @@ Finish the `when` check to print the correct message based on the user's age.
 
 ```kotlin
 when (age) {
-    ??? ??? ???("You are eligible to enter the event.")
+    ??? ??? ??? println("You are eligible to enter the event.")
     // ... other checks are not shown
     else -> println("Invalid age entered.")
 }
@@ -81,15 +81,15 @@ Finish the `when` check to print the correct message based on the user's role.
 
 ```kotlin
 when (userRole) {
-    ??? ??? ??? -> println("You have access to the restricted area.")
+    ??? ??? println("You have access to the restricted area.")
     // ... other checks are not shown
     else -> println("You do not have access.")
 }
 ```
 
-- `in`
 - `"admin", "editor"`
 - `->`
+- `in`
 - `or`
 - `&&`
 - `||`

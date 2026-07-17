@@ -26,11 +26,11 @@ Finally, `clear()` removes all elements from the vector:
 std::vector<int> numbers;
 
 numbers.push_back(1);
-printf("Size: %d\n", numbers.size());  
+printf("Size: %zu\n", numbers.size());
 // Output: Size: 1
 
 numbers.clear();
-printf("Size: %d\n", numbers.size());
+printf("Size: %zu\n", numbers.size());
 // Output: Size: 0
 ```
 
@@ -39,22 +39,26 @@ printf("Size: %d\n", numbers.size());
 
 ## Practice
 
-Remove the last element of the `nums` vector and then confirm its size:
+Remove all elements from the `nums` vector and then confirm its size:
 ```cpp
 #include <vector>
 #include <cstdio>
 
 int main() {
   std::vector<int> nums;
+  nums.push_back(1);
+  nums.push_back(2);
 
   ???.???;
-  printf("Size: %d\n", nums.???);  
+  printf("Size: %zu\n", nums.???);
   // Output: Size: 0
+
+  return 0;
 }
 ```
 
 - nums
-- pop_back()
+- clear()
 - size()
 - getSize()
 - pop()
@@ -63,7 +67,7 @@ int main() {
 ---
 ## Revision
 
-Add an element at the end of the `nums` vector and then confirm its not empty:
+Add an element to the `nums` vector, remove all elements, and then confirm its size:
 ```cpp
 #include <vector>
 #include <cstdio>
@@ -71,22 +75,18 @@ Add an element at the end of the `nums` vector and then confirm its not empty:
 int main() {
   std::vector<int> nums;
 
-  ???.???(1);
-  printf("Size: %d\n", nums.size());  
-  // Output: Size: 1
+  nums.push_back(1);
+  ???.???;
+  printf("Size: %zu\n", nums.???);
+  // Output: Size: 0
 
-  if (numbers.???) {
-    printf("true\n");
-  } else {
-    printf("false\n");
-  }
-  // Output: true
+  return 0;
 }
 ```
 
 - nums
-- push_back
-- empty()
+- clear()
+- size()
 - getSize()
 - pop()
 - numbers

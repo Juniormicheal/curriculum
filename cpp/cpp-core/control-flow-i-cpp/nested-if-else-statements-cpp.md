@@ -49,7 +49,7 @@ else {
 What is the output of the following code?
 
 ```cpp
-age = 70;
+int age = 70;
 
 if(age >= 18) {
   if(age <= 60) {
@@ -77,7 +77,7 @@ else {
 What is the output of the following code?
 
 ```cpp
-age = 15;
+int age = 15;
 
 if(age >= 18) {
   if(age <= 60) {

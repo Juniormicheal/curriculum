@@ -19,10 +19,10 @@ For example, `size()` returns the number of elements in the vector:
 ```cpp
 std::vector<int> numbers;
 
-printf("Size: %d\n", numbers.size());
+printf("Size: %zu\n", numbers.size());
 // Output: Size: 0
 
 numbers.push_back(1);
-printf("Size: %d\n", numbers.size());  
+printf("Size: %zu\n", numbers.size());
 // Output: Size: 1
 ```

@@ -25,12 +25,12 @@ We can extend the `if` statement to include an `else` clause, which will be exec
 ```cpp
 int num = -6;
 if (num >= 0) {
-  cout << "Positive or Zero Number";
+  std::cout << "Positive or Zero Number";
 } else {
-  cout << "Negative Number";
+  std::cout << "Negative Number";
 }
 
-// Positive Number
+// Negative Number
 ```
 
 ---
@@ -42,9 +42,9 @@ What does the following code snippet print?
 ```cpp
 int num = 3;
 if (num == 0) {
-  cout << "num is zero";
+  std::cout << "num is zero";
 } else {
-  cout << "num is not zero";
+  std::cout << "num is not zero";
 }
 ```
 

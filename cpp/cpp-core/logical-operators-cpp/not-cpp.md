@@ -26,9 +26,9 @@ The `!` operator returns the inverse of the operand's boolean value. If the oper
 bool a = true;
 
 if(!a) {
-  printf("a is false.")
+  printf("a is false.");
 } else {
-  printf("a is true.")
+  printf("a is true.");
 }
 // Output: "a is true."
 ```
@@ -43,9 +43,9 @@ Finish the code to output `"a is false"`?
 bool a = false;
 
 if(???) {
-  printf("a is false")
+  printf("a is false");
 } else {
-  printf("a is true")
+  printf("a is true");
 }
 ```
 
@@ -64,9 +64,9 @@ What is the output of the following code?
 bool a = true;
 
 if(!a) {
-  printf("a is false.")
+  printf("a is false.");
 } else {
-  printf("a is true.")
+  printf("a is true.");
 }
 // Output: ???
 ```

@@ -61,8 +61,8 @@ else
 // Output: ???
 ```
 
-- Either both are false or both are true
-- Exactly one of a or b is true
+- Either both are false or both are true.
+- Exactly one of a or b is true.
 
 ---
 
@@ -85,5 +85,5 @@ else
 // Output: ???
 ```
 
-- Either both are false or both are true
-- Exactly one of a or b is true
+- Either both are false or both are true.
+- Exactly one of a or b is true.

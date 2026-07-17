@@ -22,6 +22,9 @@ Let's see another example of how Swift sounds close to English.
 For example, here's how you might check if a number is greater than another:
 
 ```swift
+let myAge = 21
+let legalAge = 18
+
 if myAge >= legalAge {
     print("You can have a beer!")
 }

@@ -59,7 +59,7 @@ updateTasks("Walk the dog", "Call mom")
 
 
 - `MutableList<String>`
-- `mutableListOf()`
+- `mutableListOf`
 - `List<String>`
 - `listOf()`
 - `createList()`

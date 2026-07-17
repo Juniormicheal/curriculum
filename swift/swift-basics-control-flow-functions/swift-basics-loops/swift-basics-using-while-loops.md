@@ -48,9 +48,11 @@ A `while` loop repeats code until the condition is false.
 ---
 ## Revision
 
-How many times will a message will be printed if `countdown` starts at 3?
+How many times will a message be printed if `countdown` starts at 3?
 
 ```swift
+var countdown = 3
+
 while countdown > 0 {
     print("Countdown: \(countdown)")
     countdown -= 1

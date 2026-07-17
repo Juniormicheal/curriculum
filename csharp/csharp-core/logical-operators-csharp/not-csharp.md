@@ -23,7 +23,7 @@ revisionQuestion:
 The `!` operator returns the inverse of the operand's boolean value. If the operand is true, it returns false, and vice versa:
 
 
-```cpp
+```csharp
 if(!a)
 {
   Console.WriteLine("a is false.");
@@ -50,7 +50,7 @@ else
 {
   Console.WriteLine("a is true.");
 }
-// Output: a is false 
+// Output: a is false
 ```
 
 - false

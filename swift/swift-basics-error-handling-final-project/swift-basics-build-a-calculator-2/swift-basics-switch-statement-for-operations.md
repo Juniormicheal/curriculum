@@ -24,6 +24,8 @@ A `switch` statement in Swift is like a decision-making tree. It helps you choos
 - Provide a default case for unexpected inputs.
 
 ```swift
+let operation = "+"
+
 switch operation {
 case "+":
     print("Addition")

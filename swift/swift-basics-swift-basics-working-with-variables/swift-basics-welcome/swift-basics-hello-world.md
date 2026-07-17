@@ -27,7 +27,7 @@ This line of code tells the computer to display 'Hello, Swift!' on the screen.
 
 > 💡 The term *printing* is used to mean displaying text on the screen.
 
-In Swift, `print` is a special command that takes anything in between parenthesis and shows it on the screen.
+In Swift, `print` is a special command that takes anything between parentheses and shows it on the screen.
 
 ```swift
 print("Hello, Swift!")

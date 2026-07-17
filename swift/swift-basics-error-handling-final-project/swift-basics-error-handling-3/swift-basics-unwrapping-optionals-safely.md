@@ -22,6 +22,8 @@ To use the value inside an optional, you need to **unwrap** it. This is like ope
 You can safely unwrap an optional using `if let`:
 
 ```swift
+let gift: String? = "Book"
+
 if let unwrappedGift = gift {
     print("Gift is: \(unwrappedGift)")
 } else {
@@ -48,6 +50,8 @@ How do you safely unwrap an optional in Swift?
 What does the following code do?
 
 ```swift
+let optionalValue: Int? = 42
+
 if let value = optionalValue {
     print(value)
 }

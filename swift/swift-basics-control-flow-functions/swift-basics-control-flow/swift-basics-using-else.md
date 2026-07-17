@@ -20,6 +20,8 @@ revisionQuestion:
 Adding `else` provides an alternative action if the `if` condition is false.
 
 ```swift
+let temperature = 20
+
 if temperature > 25 {
     print("It's a warm day!")
 } else {

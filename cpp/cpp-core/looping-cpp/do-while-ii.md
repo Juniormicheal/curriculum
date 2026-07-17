@@ -23,14 +23,14 @@ Here's an example of a `do-while` loop that prints the numbers from 1 to 5:
 ```cpp
 int i = 1;
 do {
-   printf(i);
+   printf("%d", i);
    i++;
 } while(i <= 5);
   
 // Output: 12345
 ```
 
-The loop will start at `i = 0`, increase `i` by 1 each time the loop runs, and continue as long as `i <= 5`.
+The loop will start at `i = 1`, increase `i` by 1 each time the loop runs, and continue as long as `i <= 5`.
 
 
 
@@ -78,16 +78,16 @@ int main() {
   ??? {
     printf("%d\n", i);
     i--;
-  } ???(i => ???);
+  } ???(i >= ???);
   
   return 0;
 }
 // Output: 
-// 1
-// 2
-// 3
-// 4
 // 5
+// 4
+// 3
+// 2
+// 1
 ```
 
 - do

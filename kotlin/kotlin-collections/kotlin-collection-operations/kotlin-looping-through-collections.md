@@ -25,7 +25,7 @@ Iterating over collections in Kotlin is like going through each item in your sto
 for (score in scores) {
     println(score * 3)
 }
-  ```
+```
 
 > 💡 Iteration lets you process each element in a collection.
   

@@ -18,12 +18,10 @@ category: must-know
 std::vector<int> numbers;
 
 numbers.push_back(1);
-printf("Size: %d\n", numbers.size());  
+printf("Size: %zu\n", numbers.size());
 // Output: Size: 1
 
 numbers.pop_back();
-printf("Size: %d\n", numbers.size());
+printf("Size: %zu\n", numbers.size());
 // Output: Size: 0
 ```
-
-

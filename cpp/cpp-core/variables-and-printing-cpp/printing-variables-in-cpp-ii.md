@@ -40,7 +40,7 @@ printf("Stefan is %d years old.", age);
 
 Print a message to the console and add a newline character after the message:
 ```cpp
-???("Hello, world!???")
+???("Hello, world!???");
 ```
 
 - `printf`
@@ -53,13 +53,12 @@ Print a message to the console and add a newline character after the message:
 
 Print a message to the console and add a newline character after the message:
 ```cpp
-???("Hello, world!???")
+???("Hello, world!???");
 ```
 
 - `printf`
 - `\n`
 - `stdout`
 - `\nextLine`
-
 
 

@@ -4,7 +4,7 @@ type: normal
 category: how-to
 links:
   - >-
-    [UNIQUE](https://support.google.com/docs/answer/3093198?hl=en){documentation}
+    [UNIQUE](https://support.google.com/docs/answer/10522653){documentation}
 practiceQuestion:
   formats:
     - fill-in-the-gap
@@ -25,8 +25,10 @@ The unique rows are returned in the order they appear in the source range.
 The syntax is:
 
 ```plain-text
-=UNIQUE(range)
+=UNIQUE(range, by_column, exactly_once)
 ```
+
+The `by_column` and `exactly_once` arguments are optional.
 
 If we had this data set[1], and we wanted to only keep the unique value we would type:
 

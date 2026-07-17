@@ -49,9 +49,16 @@ Types of change:
 ### Fixed
 
 
-### Added
+## July 16th 2026
+
+### Fixed
+
+- [Multi topic fixes - Syntax, code and others](https://github.com/enkidevs/curriculum/pull/3392)
+
 
 ## September 11th 2025
+
+### Added
 
 - [Web - Web Exercises - Add new course with many exercises for the web playground](https://github.com/enkidevs/curriculum/pull/3364)
 

@@ -27,11 +27,11 @@ var textNumber: String = "123"
 val number = textNumber.toInt() // ✅ No error, we can convert String to Int
 ```
 
-The `null` type is a special type that always gives an error when we treat it as any other type.
+Nullable values need special handling before you call functions that require a non-null value.
 
 ```kotlin
 val x: String? = null
-x.toString() // ❌ Error: Null can not be converted to String
+x.toInt() // ❌ Error: only safe calls are allowed
 ```
 
 In order to handle `null` values, we need to protect against it.
@@ -42,17 +42,17 @@ This special way is called the "safe call operator" and it looks like this: `?.`
 
 ```kotlin
 val x: String? = null
-x?.toString() // ✅ No error
+x?.toInt() // ✅ No error
 ```
 
 ---
 ## Practice
 
-Finish the code such that it doesn't cause an error when `num` is `null`:
+Finish the code such that it doesn't cause an error when `textNumber` is `null`:
 
 ```kotlin
-val num: Int??? = null
-val result = num???toString()
+val textNumber: String??? = null
+val result = textNumber???toInt()
 ```
 
 - `?`
@@ -75,5 +75,3 @@ val age = ageText???toInt()
 - `?`
 - `.`
 - `#`
-
-

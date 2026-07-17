@@ -17,7 +17,7 @@ revisionQuestion:
 ---
 ## Content
 
-Kotlin follows the standard order of operations: Parentheses, Exponents, Multiplication/Division, Addition/Subtraction (PEMDAS).
+Kotlin follows the standard arithmetic order: parentheses, multiplication/division, then addition/subtraction.
 
 It's like following a recipe step-by-step.
 
@@ -67,5 +67,4 @@ What is the result of `(2 + 3) * 4`?
 - 20
 - 14
 - 10
-
 

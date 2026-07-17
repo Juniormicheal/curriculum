@@ -26,7 +26,7 @@ You can also run `for` loops in descending order:
 
 int main() {
   for(int i = 10; i >= 1; i--) {
-    printf(i);
+    printf("%d", i);
   }
   return 0;
 }
@@ -40,11 +40,11 @@ int main() {
 Fill in the blank to output the numbers 1 through 5:
 
 ```cpp
-#include <iostream>
+#include <stdio.h>
 
 int main() {
   for(int i = 1; i <= ???; i++) {
-    printf(i);
+    printf("%d", i);
   }
   return 0;
 }
@@ -63,11 +63,11 @@ int main() {
 What is the output of the following code?
 
 ```cpp
-#include <iostream>
+#include <stdio.h>
 
 int main() {
   for(int i = 10; i >= 1; i--) {
-    printf(i);
+    printf("%d", i);
   }
   return 0;
 }

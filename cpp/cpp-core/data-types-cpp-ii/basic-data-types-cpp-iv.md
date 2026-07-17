@@ -30,7 +30,7 @@ If we didn't use `std::boolalpha`, the boolean values would be printed as '1' fo
 
 Complete the following code snippet by declaring a boolean variable named `isTrue` and assigning it a value of `true`.
 
-```csharp
+```cpp
 ??? isTrue = ???;
 ```
 

@@ -20,6 +20,7 @@ revisionQuestion:
 You can access elements in an array using their index, which starts at 0.
 
 ```swift
+let favoriteFruits = ["Apple", "Banana", "Cherry"]
 let firstFruit = favoriteFruits[0] // "Apple"
 ```
 

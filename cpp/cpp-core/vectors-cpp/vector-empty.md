@@ -19,12 +19,11 @@ Here are some examples:
 ```cpp
 std::vector<int> numbers;
 
-printf(numbers.empty);  
-// Output: True  
+printf("%s\n", numbers.empty() ? "true" : "false");
+// Output: true
 
 numbers.push_back(1);
-printf(numbers.empty);  
-// Output: False
+printf("%s\n", numbers.empty() ? "true" : "false");
+// Output: false
 
 ```
-

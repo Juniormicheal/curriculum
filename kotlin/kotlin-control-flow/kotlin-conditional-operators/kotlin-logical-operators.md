@@ -25,7 +25,7 @@ Logical operators are used to compare values and return a true or false result.
 | `⎮⎮` | OR | `5 > 3 ⎮⎮ 10 < 20` returns `true` |
 | `!` | NOT | `!(5 > 3)` returns `false` |
 
-> 💡 Logical operators works just like in math.
+> 💡 Logical operators work just like in math.
 
 ---
 ## Practice

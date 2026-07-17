@@ -22,6 +22,8 @@ A switch statement evaluates a value and matches it against several possible cas
 Here's how you can write one:
 
 ```swift
+let fruit = "apple"
+
 switch fruit {
 case "apple":
     print("You have an apple.")

@@ -30,7 +30,7 @@ Comparison operators are used to compare values and return a true or false resul
 | `>=` | Greater than or equal to | `5 >= 5` returns `true` |
 | `<=` | Less than or equal to | `5 <= 5` returns `true` |
 
-> 💡 Comparison operators works just like in math.
+> 💡 Comparison operators work just like in math.
 
 ---
 ## Practice
