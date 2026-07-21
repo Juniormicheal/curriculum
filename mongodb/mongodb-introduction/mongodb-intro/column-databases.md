@@ -5,7 +5,7 @@ category: must-know
 links:
   - >-
     [Analysis of the NoSQL
-    Landscape](http://blog.knuthaugen.no/2010/03/the-nosql-landscape.html){website}
+    Landscape](https://blog.knuthaugen.no/infrastructure/2010/03/16/a-brief-historwy-of-nosql.html){website}
 ---
 
 # Column databases
