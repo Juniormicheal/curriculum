@@ -8,9 +8,6 @@ links:
     [Official documentation for flow
     control](https://docs.python.org/3/tutorial/controlflow.html){website}
   - >-
-    [One blog post presenting control
-    structures](http://gsl.mit.edu/media/programs/sri-lanka-summer-2011/materials/t-l03.pdf){website}
-  - >-
     [A video tutorial on flow
     control](https://www.youtube.com/watch?v=c64cJHAJSn4){video}
 ---

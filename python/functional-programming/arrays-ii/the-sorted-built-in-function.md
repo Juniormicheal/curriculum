@@ -6,7 +6,7 @@ links:
   - >-
     [Python
     sorted](https://www.programiz.com/python-programming/methods/built-in/sorted){website}
-  - '[Sorting Mini-HOW TO](https://wiki.python.org/moin/HowTo/Sorting/){website}'
+  - '[Sorting Mini-HOW TO](https://docs.python.org/3/howto/sorting.html){website}'
   - '[Timsort](https://en.wikipedia.org/wiki/Timsort){website}'
   - '[PEP 3000](https://www.python.org/dev/peps/pep-3100/#id100){website}'
   - >-
