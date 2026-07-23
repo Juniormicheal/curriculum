@@ -13,7 +13,7 @@ links:
     Documentation](https://dev.mysql.com/doc/refman/5.7/en/create-index.html){documentation}
   - >-
     [blog post on MySQL define
-    tables](https://atech.blog/viaduct/mysql-indexes-primer){website}
+    tables](https://krystal.io/blog/post/mysql-indexes-primer){website}
   - >-
     [video tutorial on aggregate
     functions](https://www.youtube.com/watch?v=JjNef3tPltU){video}
