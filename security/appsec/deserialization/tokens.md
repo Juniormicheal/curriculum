@@ -3,9 +3,6 @@ author: lizTheDeveloper
 type: normal
 category: best-practice
 links:
-  - >-
-    [A deeper dive on how and why this
-    happens](https://www.whitehatsec.com/blog/web-storage-security/){website}
   - '[JSON Web Tokens](https://jwt.io/){website}'
   - >-
     [Auth0 on how and where to store

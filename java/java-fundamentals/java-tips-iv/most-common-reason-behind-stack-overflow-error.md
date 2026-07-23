@@ -4,7 +4,7 @@ type: normal
 category: tip
 links:
   - >-
-    [blog.thilinamb.com](http://blog.thilinamb.com/2008/12/how-to-increase-java-stack-size.html){website}
+    [Increase Java Stack Size](https://www.delftstack.com/howto/java/java-xss/){website}
 notes: >-
   https://insights.enki.com/#/contrib/others/55ef1843d2b1123000710e27?search=khandelwalrinki
 
