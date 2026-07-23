@@ -5,7 +5,7 @@ category: must-know
 links:
   - >-
     [Wallet
-    guide](https://blockgeeks.com/guides/cryptocurrency-wallet-guide/){article}
+    guide](https://www.blockchain.com/learning-portal/lessons/crypto-wallets?utm_source=blog&utm_medium=footer&utm_campaign=footer_what_is_crypto_wallet){article}
 practiceQuestion:
   formats:
     - fill-in-the-gap

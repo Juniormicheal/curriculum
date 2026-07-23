@@ -5,7 +5,7 @@ category: must-know
 links:
   - >-
     [Generating a Bitcoin address on your
-    own](http://procbits.com/2013/08/27/generating-a-bitcoin-address-with-javascript){website}
+    own](https://github.com/jprichardson/procbits.com/blob/master/articles/2013/08/generating-a-bitcoin-address-with-javascript.md){website}
 practiceQuestion:
   formats:
     - fill-in-the-gap

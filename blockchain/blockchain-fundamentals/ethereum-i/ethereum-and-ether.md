@@ -7,7 +7,7 @@ links:
   - '[Ethereum source code](https://github.com/ethereum/go-ethereum){website}'
   - >-
     [Guide to Casper
-    Protocol](https://blockgeeks.com/guides/ethereum-casper/){article}
+    Protocol](https://blog.chainsafe.io/ethereum-2-0-a-complete-guide-casper-and-the-beacon-chain/){article}
 practiceQuestion:
   formats:
     - fill-in-the-gap
