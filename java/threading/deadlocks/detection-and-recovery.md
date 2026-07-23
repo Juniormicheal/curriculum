@@ -5,7 +5,7 @@ category: how-to
 links:
   - >-
     [More on Detection and
-    Recovery](http://ecomputernotes.com/database-system/rdbms/deadlock-detect-and-recover){website}
+    Recovery](https://www.geeksforgeeks.org/operating-systems/deadlock-detection-recovery/){website}
 revisionQuestion:
   formats:
     - fill-in-the-gap

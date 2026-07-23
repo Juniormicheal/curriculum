@@ -9,7 +9,7 @@ links:
   - >-
     [javarevisited.blogspot.co.uk](http://javarevisited.blogspot.co.uk/2012/08/best-practices-to-write-junit-test.html){website}
   - >-
-    [zeroturnaround.com](http://zeroturnaround.com/rebellabs/dont-test-blindly-the-right-methods-for-unit-testing-your-java-apps/){website}
+    [RIGHT-BICEP Testing Method](https://www.educative.io/courses/unit-testing-java8-junit/np/the-right-bicep){website}
 practiceQuestion:
   formats:
     - fill-in-the-gap

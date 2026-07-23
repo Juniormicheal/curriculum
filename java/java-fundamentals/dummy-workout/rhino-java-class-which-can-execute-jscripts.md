@@ -24,7 +24,7 @@ notes: 'First time using tags, hopefully used them correctly.'
 links:
 
   - >-
-    [developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/Rhino){website}
+    [Rhino JavaScript Engine](https://en.wikipedia.org/wiki/Rhino_(JavaScript_engine)){website}
 
 ---
 # Rhino - Java class which can execute JScripts.
