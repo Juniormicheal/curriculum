@@ -4,7 +4,7 @@ type: normal
 category: must-know
 links:
   - >-
-    [www.dummies.com](http://www.dummies.com/programming/networking/cisco/cisco-networking-packets/){website}
+    [www.dummies.com](https://www.techtarget.com/searchnetworking/definition/packet){website}
   - '[whatismyipaddress.com](http://whatismyipaddress.com/tcp-ip){website}'
 practiceQuestion:
   formats:

@@ -5,7 +5,7 @@ category: how-to
 links:
   - >-
     [Nslookup – Common Usage
-    Examples](https://blog.thesysadmins.co.uk/nslookup-common-usage-examples.html){website}
+    Examples](https://phoenixnap.com/kb/nslookup-command){website}
   - >-
     [Install dig
     (Windows)](https://help.dyn.com/how-to-use-binds-dig-tool/#installdigwindows){website}

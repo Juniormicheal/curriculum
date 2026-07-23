@@ -4,7 +4,7 @@ type: normal
 category: must-know
 links:
   - >-
-    [Network Models (Data Communications and Networking)](http://what-when-how.com/data-communications-and-networking/network-models-data-communications-and-networking/){website}
+    [Network Models (Data Communications and Networking)](https://www.geeksforgeeks.org/computer-networks/difference-between-osi-model-and-tcp-ip-model/){website}
   - >-
     [The 7 Layers of the OSI Model](https://www.webopedia.com/definitions/7-layers-of-osi-model/){website}
 practiceQuestion:
