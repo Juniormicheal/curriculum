@@ -11,7 +11,7 @@ links:
     post](https://www.vinta.com.br/blog/2015/functional-programming-python/){website}
   - >-
     [Video on functional
-    programming](https://www.youtube.com/watch?v=goypZR_lQ7I){video}
+    programming](https://www.youtube.com/watch?v=YoFnqpv3qgU){video}
 linkType: codewars
 link: 'https://www.codewars.com/kata/binary-representation-of-an-integer'
 ---
