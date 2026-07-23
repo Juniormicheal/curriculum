@@ -10,9 +10,6 @@ links:
   - >-
     [A blog about data
     structures](http://www.diveintopython3.net/native-datatypes.html){website}
-  - >-
-    [A video tutorial of data
-    structures](https://www.youtube.com/watch?v=TkpNMvBrEUw){video}
 ---
 
 # Python Implement Abstract Class
