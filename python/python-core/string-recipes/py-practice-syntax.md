@@ -7,7 +7,6 @@ links:
   - >-
     [link to deeper dive blog
     post](https://www.w3resource.com/python/python-syntax.php){website}
-  - '[link to a video](https://www.youtube.com/watch?v=oy4GOI9vn5M){video}'
 ---
 
 # Practice python String Validation
