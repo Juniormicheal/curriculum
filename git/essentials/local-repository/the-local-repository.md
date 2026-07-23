@@ -5,7 +5,7 @@ category: must-know
 links:
   - >-
     [The Three States Official
-    Documentation](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics#The-Three-States){website}
+    Documentation](https://git-scm.com/book/en/v2/Getting-Started-What-is-Git){website}
   - >-
     [Git Tutorial
     Udemy](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#6_1){website}

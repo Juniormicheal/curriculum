@@ -8,7 +8,7 @@ links:
     Documentation](http://git-scm.com/book/en/v2/Git-Branching-Remote-Branches){website}
   - >-
     [Credential Caching Official
-    Documentation](https://git-scm.com/book/tr/v2/Git-Tools-Credential-Storage#_credential_caching){website}
+    Documentation](https://git-scm.com/book/en/v2/Git-Tools-Credential-Storage#_credential_caching){website}
 practiceQuestion:
   formats:
     - fill-in-the-gap

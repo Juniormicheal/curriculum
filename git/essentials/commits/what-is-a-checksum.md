@@ -5,7 +5,7 @@ category: must-know
 links:
   - >-
     [Getting Started Git
-    Basics](http://git-scm.com/book/en/v2/Getting-Started-Git-Basics){website}
+    Basics](https://git-scm.com/book/en/v2){website}
 revisionQuestion:
   formats:
     - fill-in-the-gap
