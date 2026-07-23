@@ -7,7 +7,7 @@ category: must-know
 links:
   - >-
     [Looker
-    Training](https://training.looker.com/looker-for-data-consumers){website}
+    Training](https://www.skills.google/paths/18/course_templates/1381){website}
   - '[UX Tips](https://looker.com/blog/dashboard-ux-ui){website}'
 practiceQuestion:
   formats:

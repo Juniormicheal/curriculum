@@ -7,7 +7,7 @@ category: must-know
 links:
   - >-
     [Looker vs
-    Tableau](https://www.betterbuys.com/bi/looker-vs-tableau/){website}
+    Tableau](https://improvado.io/blog/looker-vs-tableau){website}
 practiceQuestion:
   formats:
     - fill-in-the-gap

@@ -7,7 +7,7 @@ category: must-know
 links:
   - >-
     [Engagement for
-    Growth](https://blog.popcornmetrics.com/5-user-engagement-metrics-for-growth/){website}
+    Growth](https://www.appcues.com/blog/7-user-engagement-metrics-that-give-us-deeper-insight-into-our-users){website}
 practiceQuestion:
   formats:
     - fill-in-the-gap

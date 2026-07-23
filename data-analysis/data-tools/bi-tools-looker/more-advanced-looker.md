@@ -6,7 +6,7 @@ type: normal
 category: must-know
 links:
   - >-
-    [LookML](https://training.looker.com/looker-development-foundations/334816){website}
+    [LookML](https://www.skills.google/paths/18/course_templates/327){website}
 practiceQuestion:
   formats:
     - fill-in-the-gap
