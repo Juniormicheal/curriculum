@@ -6,7 +6,7 @@ levels:
 type: normal
 category: feature
 links:
-  - '[www.2ality.com](http://www.2ality.com/2015/03/es6-generators.html){website}'
+  - '[ES6 Generators Guide](https://javascript.info/generators){website}'
   - >-
     [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator){website}
 practiceQuestion:

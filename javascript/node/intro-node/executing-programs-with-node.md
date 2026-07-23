@@ -6,7 +6,7 @@ tags:
   - introduction
 links:
   - >-
-    [nodeguide.com](http://nodeguide.com/beginner.html#the-interactive-node.js-shell){website}
+    [Node REPL Docs](https://nodejs.org/api/repl.html){website}
 practiceQuestion:
   formats:
     - fill-in-the-gap

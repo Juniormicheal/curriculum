@@ -4,7 +4,7 @@ type: normal
 category: how-to
 links:
   - >-
-    [codeforgeek.com](https://codeforgeek.com/2014/10/express-complete-tutorial-part-4/){website}
+    [Express Session Middleware](https://expressjs.com/en/resources/middleware/session/){website}
   - '[github.com](https://github.com/expressjs/session){website}'
 practiceQuestion:
   formats:

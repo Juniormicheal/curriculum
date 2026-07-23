@@ -7,7 +7,7 @@ tags:
   - deep
 links:
   - >-
-    [strongloop.com](https://strongloop.com/strongblog/3-neat-tricks-with-npm-run/){website}
+    [npm Run Script Docs](https://docs.npmjs.com/cli/v10/commands/npm-run-script/){website}
 practiceQuestion:
   formats:
     - fill-in-the-gap

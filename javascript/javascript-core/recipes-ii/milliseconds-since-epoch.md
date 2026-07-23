@@ -3,7 +3,7 @@ author: Bruno
 type: normal
 category: tip
 links:
-  - '[2ality.com](http://www.2ality.com/2014/02/time-values.html){blog}'
+  - '[Date and Time Guide](https://javascript.info/date){blog}'
   - '[Luxon](https://moment.github.io/luxon/){documentation}'
   - '[Date-fns](https://date-fns.org/){documentation}'
   - >-

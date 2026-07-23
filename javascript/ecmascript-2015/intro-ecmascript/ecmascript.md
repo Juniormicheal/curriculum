@@ -14,7 +14,7 @@ links:
   - '[Can I Use ___? compatibility for browsers](https://caniuse.com/){website}'
   - >-
     [Who is on the committee right
-    now?](https://www.ecma-international.org/memento/tc39.htm){website}
+    now?](https://ecma-international.org/technical-committees/tc39/){website}
 practiceQuestion:
   formats:
     - fill-in-the-gap

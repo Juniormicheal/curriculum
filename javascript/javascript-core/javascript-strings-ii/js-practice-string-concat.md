@@ -15,7 +15,7 @@ links:
     String.split](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split){website}
   - >-
     [MDN -
-    String.join](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/join){website}
+    String.join](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/join){website}
 ---
 
 # JS Practice String `concat` , `split` and `join`

@@ -8,7 +8,7 @@ tags:
   - deep
 links:
   - >-
-    [www.joyent.com](https://www.joyent.com/developers/node/design/errors){website}
+    [Node Error Handling](https://github.com/goldbergyoni/nodebestpractices/blob/master/sections/errorhandling/operationalvsprogrammererror.md){website}
 practiceQuestion:
   formats:
     - fill-in-the-gap

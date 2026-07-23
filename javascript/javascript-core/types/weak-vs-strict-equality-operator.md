@@ -9,7 +9,7 @@ links:
     [Comparison
     Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Comparison_Operators){website}
   - >-
-    [Using `==` in Js](https://2ality.com/2011/12/strict-equality-exemptions.html){website}
+    [Using `==` in Js](https://javascript.info/comparison){website}
 practiceQuestion:
   formats:
     - fill-in-the-gap

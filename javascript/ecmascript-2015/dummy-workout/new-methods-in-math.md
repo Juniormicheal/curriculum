@@ -8,7 +8,7 @@ type: normal
 category: must-know
 links:
   - >-
-    [www.2ality.com](http://www.2ality.com/2015/04/numbers-math-es6.html){website}
+    [New Math Methods](https://javascript.info/number){website}
   - '[github.com](https://github.com/lukehoban/es6features#arrows){website}'
   - >-
     [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math){website}

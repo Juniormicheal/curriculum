@@ -7,7 +7,7 @@ tags:
   - workout
 links:
   - >-
-    [www.joyent.com](https://www.joyent.com/developers/node/design/errors){website}
+    [Node Error Handling](https://github.com/goldbergyoni/nodebestpractices/blob/master/sections/errorhandling/operationalvsprogrammererror.md){website}
   - >-
     [stackoverflow.com](http://stackoverflow.com/questions/14392110/catch-exception-in-node-during-json-parse?lq=1){website}
 practiceQuestion:

@@ -7,7 +7,7 @@ levels:
 type: normal
 category: feature
 links:
-  - '[exploringjs.com](http://exploringjs.com/es6/ch_modules.html){website}'
+  - '[ES6 Modules Intro](https://javascript.info/modules-intro){website}'
   - >-
     [MDN -
     Export](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/export){website}

@@ -7,7 +7,7 @@ levels:
 type: normal
 category: feature
 links:
-  - '[www.2ality.com](http://www.2ality.com/2015/01/es6-strings.html){website}'
+  - '[ES6 Strings Guide](https://javascript.info/string){website}'
   - >-
     [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String){website}
 practiceQuestion:

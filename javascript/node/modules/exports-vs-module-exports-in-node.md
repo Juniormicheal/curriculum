@@ -7,7 +7,7 @@ tags:
   - workout
 links:
   - >-
-    [www.hacksparrow.com](http://www.hacksparrow.com/node-js-exports-vs-module-exports.html){website}
+    [Exports vs Module.exports](https://www.geeksforgeeks.org/node-js/difference-between-module-exports-and-exports-in-node-js/){website}
 practiceQuestion:
   formats:
     - fill-in-the-gap
