@@ -9,7 +9,7 @@ solution: 'https://codepen.io/enkidevs/pen/MXQNVQ'
 links:
   - >-
     [simple explanation for
-    hyperlinks](http://www.hyperlinkcode.com/make-hyperlink.php){website}
+    hyperlinks](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Creating_links){website}
 ---
 
 # HTML create link

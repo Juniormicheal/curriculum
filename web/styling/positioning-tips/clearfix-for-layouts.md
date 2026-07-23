@@ -7,7 +7,7 @@ tags:
 links:
   - >-
     [Understanding
-    Clearfix](http://fuseinteractive.ca/blog/understanding-humble-clearfix#.VaQqCZNViko){website}
+    Clearfix](https://css-tricks.com/snippets/css/clear-fix/){website}
 practiceQuestion:
   formats:
     - fill-in-the-gap

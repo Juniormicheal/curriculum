@@ -7,7 +7,7 @@ category: how-to
 
 links:
   - '[Quiz Banker](https://gsuite.google.com/u/0/marketplace/app/quiz_banker_from_new_visions_for_public/704786429108){website}'
-  - '[Google Analytics](https://gsuite.google.com/u/0/marketplace/app/google_analytics/477988381226){website}'
+  - '[Google Analytics](https://workspace.google.com/marketplace/app/ga4_reports_builder_for_google_analytics/589269949355){website}'
   - '[Mail Merge with Attachments](https://gsuite.google.com/u/0/marketplace/app/mail_merge_with_attachments/223404411203){website}'
 
 ---

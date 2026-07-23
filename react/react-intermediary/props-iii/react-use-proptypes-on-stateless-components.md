@@ -5,7 +5,7 @@ category: feature
 links:
   - >-
     [Type checking with
-    PropTypes](http://facebook.github.io/react/docs/typechecking-with-proptypes){website}
+    PropTypes](https://legacy.reactjs.org/docs/typechecking-with-proptypes.html){website}
 notes: >-
   Originally from Dan Abramov
   http://twitter.com/dan_abramov/status/658710159125037056 but don't have

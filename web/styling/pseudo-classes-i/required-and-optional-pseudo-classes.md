@@ -5,7 +5,7 @@ category: must-know
 links:
   - >-
     [The Required
-    Selector](https://css-tricks.com/almanac/selectors/r/required/){website}
+    Selector](https://css-tricks.com/almanac/pseudo-selectors/r/required/){website}
   - >-
     [MDN Docs on Pseudo
     Classes](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes){documentation}

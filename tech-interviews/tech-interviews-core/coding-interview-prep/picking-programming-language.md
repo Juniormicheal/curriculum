@@ -12,7 +12,7 @@ revisionQuestion:
   context: standalone
 links:
   - '[The Best Programming Language For Coding Interviews](https://www.youtube.com/watch?v=kYpxolRkaSo){video}'
-  - '[How to get strategic about programming languages in interviews](https://triplebyte.com/blog/you-must-choose-wisely-how-to-get-strategic-about-programming-languages-in-interviews){article}'
+  - '[How to get strategic about programming languages in interviews](https://www.techinterviewhandbook.org/programming-languages-for-coding-interviews/){article}'
 
 ---
 
