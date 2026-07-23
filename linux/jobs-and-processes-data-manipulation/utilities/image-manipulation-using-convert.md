@@ -10,7 +10,7 @@ tags:
   - gif
   - ImageMagic
 links:
-  - '[www.imagemagick.org](http://www.imagemagick.org/Usage/){website}'
+  - '[ImageMagick Usage Docs](https://usage.imagemagick.org/){website}'
 revisionQuestion:
   formats:
     - type-in-the-gap

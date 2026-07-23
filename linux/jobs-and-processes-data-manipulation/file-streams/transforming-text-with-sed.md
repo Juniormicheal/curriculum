@@ -3,7 +3,7 @@ author: jfarmer
 type: normal
 category: must-know
 links:
-  - '[Useful sed one-liners](http://sed.sourceforge.net/sed1line.txt){website}'
+  - '[Useful sed one-liners](http://www.pement.org/sed/sed1line.txt){website}'
 practiceQuestion:
   formats:
     - type-in-the-gap
