@@ -3,7 +3,7 @@ author: mihaiberq
 type: normal
 category: tip
 links:
-  - '[Scrimba CSS the Box Model](https://scrimba.com/p/pWvwCg/cnm3RSZ){website}'
+  - '[Scrimba CSS the Box Model](https://v1.scrimba.com/scrim/cnm3RSZ?pl=pWvwCg){website}'
   - >-
     [MDN Docs on the Box
     Model](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model){documentation}

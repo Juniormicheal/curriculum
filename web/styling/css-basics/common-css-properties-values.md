@@ -11,9 +11,9 @@ links:
     Length](https://developer.mozilla.org/en-US/docs/Web/CSS/length){documentation}
   - >-
     [Scrimba CSS Selectors, Properties &
-    Values](https://scrimba.com/p/pWvwCg/cpKbvTV){website}
-  - '[Scrimba CSS Length Units](https://scrimba.com/p/pWvwCg/cGLEnHg){website}'
-  - '[Scrimba CSS Colors](https://scrimba.com/p/pWvwCg/cMMymu2){website}'
+    Values](https://v1.scrimba.com/scrim/cpKbvTV?pl=pWvwCg){website}
+  - '[Scrimba CSS Length Units](https://v1.scrimba.com/scrim/cGLEnHg?pl=pWvwCg){website}'
+  - '[Scrimba CSS Colors](https://v1.scrimba.com/scrim/cMMymu2?pl=pWvwCg){website}'
 revisionQuestion:
   formats:
     - fill-in-the-gap

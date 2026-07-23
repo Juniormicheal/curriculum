@@ -8,7 +8,7 @@ links:
     CSS](https://developer.mozilla.org/en-US/docs/Web/CSS){documentation}
   - >-
     [Scrimba CSS Documents & the
-    Cascade](https://scrimba.com/p/pWvwCg/c3vE7cg){website}
+    Cascade](https://v1.scrimba.com/scrim/c3vE7cg?pl=pWvwCg){website}
 practiceQuestion:
   formats:
     - fill-in-the-gap

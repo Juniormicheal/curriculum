@@ -6,7 +6,7 @@ tags:
   - hexadecimal
   - colour
 links:
-  - '[Scrimba CSS Colors](https://scrimba.com/p/pWvwCg/cMMymu2){website}'
+  - '[Scrimba CSS Colors](https://v1.scrimba.com/scrim/cMMymu2?pl=pWvwCg){website}'
 practiceQuestion:
   formats:
     - fill-in-the-gap

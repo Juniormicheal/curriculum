@@ -3,7 +3,7 @@ author: mihaiberq
 type: normal
 category: must-know
 links:
-  - '[Scrimba CSS Length Units](https://scrimba.com/p/pWvwCg/cGLEnHg){website}'
+  - '[Scrimba CSS Length Units](https://v1.scrimba.com/scrim/cGLEnHg?pl=pWvwCg){website}'
 practiceQuestion:
   formats:
     - fill-in-the-gap

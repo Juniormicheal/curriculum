@@ -5,7 +5,7 @@ category: must-know
 links:
   - >-
     [Scrimba CSS Documents &
-    Cascade](https://scrimba.com/p/pWvwCg/c3vE7cg){website}
+    Cascade](https://v1.scrimba.com/scrim/c3vE7cg?pl=pWvwCg){website}
 revisionQuestion:
   formats:
     - fill-in-the-gap

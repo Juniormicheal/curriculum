@@ -5,7 +5,7 @@ category: must-know
 links:
   - >-
     [Scrimba CSS Width and
-    Height](https://scrimba.com/p/pWvwCg/cPvRvAV){website}
+    Height](https://v1.scrimba.com/scrim/cPvRvAV?pl=pWvwCg){website}
   - >-
     [MDN Docs on
     Display](https://developer.mozilla.org/en-US/docs/Web/CSS/display){documentation}

@@ -5,7 +5,7 @@ category: must-know
 links:
   - >-
     [Scrimba CSS Selectors, Properties &
-    Values](https://scrimba.com/p/pWvwCg/cpKbvTV){website}
+    Values](https://v1.scrimba.com/scrim/cpKbvTV?pl=pWvwCg){website}
   - >-
     [Combining
     Selectors](http://learn.shayhowe.com/html-css/getting-to-know-css/#combining-selectors){website}
