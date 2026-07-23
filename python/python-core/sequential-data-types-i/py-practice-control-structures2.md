@@ -1,5 +1,5 @@
 ---
-author: claremarie
+author: Stefan-Stojanovic
 type: exercise
 linkType: codewars
 link: 'https://www.codewars.com/kata/drink-about/python'
