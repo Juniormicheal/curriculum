@@ -7,7 +7,7 @@ tags:
   - css
   - font-family
 links:
-  - '[Google Fonts](https://www.google.com/fonts){website}'
+  - '[Google Fonts](https://fonts.google.com){website}'
 revisionQuestion:
   formats:
     - fill-in-the-gap
