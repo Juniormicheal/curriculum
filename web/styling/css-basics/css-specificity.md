@@ -6,7 +6,9 @@ links:
   - >-
     [MDN Doc on CSS
     Specificity](https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity){documentation}
-  - '[CSS Specificity](http://standardista.com/css3/css-specificity/){article}'
+  - >-
+    [CSS
+    Specificity](https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Cascade/Specificity){article}
   - '[Scrimba CSS Specificity](https://v1.scrimba.com/scrim/c2vmgSa?pl=pWvwCg){website}'
   - >-
     [CSS Tips &
