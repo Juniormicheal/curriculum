@@ -5,7 +5,7 @@ category: feature
 links:
   - >-
     [Bash test and comparison
-    functions](https://www.ibm.com/developerworks/library/l-bash-test/index.html){website}
+    functions](https://developer.ibm.com/tutorials/l-bash-test/){website}
 practiceQuestion:
   formats:
     - fill-in-the-gap

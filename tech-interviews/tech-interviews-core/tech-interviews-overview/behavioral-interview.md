@@ -12,7 +12,7 @@ revisionQuestion:
   context: standalone
 links:
   - '[STAR Interview Technique - Top 10 Behavioral Questions](https://www.youtube.com/watch?v=WSbN-0swDgM){video}'
-  - '[10 Common Behavioral Interview Questions](https://www.thebalancecareers.com/top-behavioral-interview-questions-2059618){article}'
+  - '[10 Common Behavioral Interview Questions](https://www.indeed.com/career-advice/interviewing/behavioral-interview-questions){article}'
 
 ---
 

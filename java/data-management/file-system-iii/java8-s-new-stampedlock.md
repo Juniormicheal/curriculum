@@ -4,7 +4,7 @@ type: normal
 category: feature
 links:
   - >-
-    [blog.takipi.com](http://blog.takipi.com/java-8-stampedlocks-vs-readwritelocks-and-synchronized/){website}
+    [Java 8 StampedLock](https://www.javacodegeeks.com/2014/06/java-8-stampedlocks-vs-readwritelocks-and-synchronized.html){website}
 notes: 'https://insights.enki.com/#/contrib/others/55f038e0f457f33b0062114c?search=kha'
 practiceQuestion:
   formats:

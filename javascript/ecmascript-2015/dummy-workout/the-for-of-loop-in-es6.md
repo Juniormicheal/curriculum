@@ -5,7 +5,7 @@ levels:
 type: normal
 category: feature
 links:
-  - '[www.2ality.com](http://www.2ality.com/2015/02/es6-iteration.html){website}'
+  - '[Iteration Protocol Guide](https://javascript.info/iterable){website}'
   - >-
     [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of){website}
 revisionQuestion:

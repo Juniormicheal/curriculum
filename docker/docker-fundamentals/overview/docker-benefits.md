@@ -5,7 +5,7 @@ category: tip
 links:
   - >-
     [How Docker containers help save
-    money](https://www.channelfutures.com/open-source/how-docker-containers-help-save-money){article}
+    money](https://www.datacenterknowledge.com/business/how-docker-containers-help-save-money){article}
 ---
 
 # Docker Benefits

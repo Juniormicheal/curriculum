@@ -3,7 +3,7 @@ author: mihaiberq
 type: normal
 category: must-know
 links:
-  - '[Scrimba CSS Borders](https://scrimba.com/p/pWvwCg/cmJvzh6){tutorial}'
+  - '[Scrimba CSS Borders](https://v1.scrimba.com/scrim/cmJvzh6?pl=pWvwCg){tutorial}'
   - >-
     [MDN Docs on
     border](https://developer.mozilla.org/en-US/docs/Web/CSS/border){documentation}

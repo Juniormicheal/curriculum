@@ -10,7 +10,7 @@ notes: 'Check how this works with bruno '
 links:
   - >-
     [Checking whether a value is an integer in
-    JavaScript](http://www.2ality.com/2014/05/is-integer.html){blog}
+    JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/isInteger){blog}
 practiceQuestion:
   formats:
     - fill-in-the-gap

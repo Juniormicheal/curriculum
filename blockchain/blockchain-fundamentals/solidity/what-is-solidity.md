@@ -6,7 +6,7 @@ links:
   - >-
     [Solidity By
     Example](https://solidity.readthedocs.io/en/develop/solidity-by-example.html){website}
-  - '[What is Solidity?](https://blockgeeks.com/guides/solidity/){article}'
+  - '[What is Solidity?](https://101blockchains.com/solidity-tutorial/){article}'
 practiceQuestion:
   formats:
     - fill-in-the-gap

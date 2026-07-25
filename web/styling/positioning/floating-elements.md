@@ -3,7 +3,7 @@ author: mihaiberq
 type: normal
 category: must-know
 links:
-  - '[Scrimba CSS Float & Clear](https://scrimba.com/p/pWvwCg/cD6KWHq){website}'
+  - '[Scrimba CSS Float & Clear](https://v1.scrimba.com/scrim/cD6KWHq?pl=pWvwCg){website}'
   - >-
     [MDN Docs on
     Float](https://developer.mozilla.org/en-US/docs/Web/CSS/float){documentation}

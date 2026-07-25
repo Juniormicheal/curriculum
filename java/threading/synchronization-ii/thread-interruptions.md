@@ -4,7 +4,7 @@ type: normal
 category: must-know
 links:
   - >-
-    [Interrupting a Thread](http://www.javatpoint.com/interrupting-a-thread){website}
+    [Interrupting a Thread](https://www.geeksforgeeks.org/java/interrupting-a-thread-in-java/){website}
 practiceQuestion:
   formats:
     - fill-in-the-gap

@@ -5,7 +5,7 @@ category: must-know
 links:
   - >-
     [The research paper in which the Byzantine Generals Problem was first
-    discussed](https://people.eecs.berkeley.edu/~luca/cs174/byzantine.pdf){article}
+    discussed](https://lamport.azurewebsites.net/pubs/byz.pdf){article}
   - >-
     [Byzantine fault
     tolerance](https://medium.com/loom-network/understanding-blockchain-fundamentals-part-1-byzantine-fault-tolerance-245f46fe8419){article}

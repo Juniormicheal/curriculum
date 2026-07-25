@@ -13,7 +13,7 @@ revisionQuestion:
 links:
   - '[Example Coding Whiteboard Interview](https://www.youtube.com/watch?v=XKu_SEDAykw){video}'
   - '[Whiteboard Interview Guide: The Good, The Bad, and The Ugly](https://coderpad.io/blog/interviewing/whiteboard-interview-guide/){blog}'
-  - '[FAQ: Simple Whiteboard Interview Questions](https://www.indeed.com/career-advice/interviewing/simple-whiteboard-interview-questions){article}'
+  - '[FAQ: Simple Whiteboard Interview Questions](https://www.codecademy.com/resources/blog/whiteboard-interview-tips){article}'
 
 ---
 

@@ -10,7 +10,6 @@ links:
   - >-
     [link to deeper dive blog
     post](http://www.diveintopython3.net/native-datatypes.html){website}
-  - '[link to a video](https://www.youtube.com/watch?v=TkpNMvBrEUw){video}'
 ---
 
 # Practice python booleans

@@ -4,7 +4,7 @@ category: must-know
 type: normal
 links:
   - >-
-    [Why Container Virtualization](https://medium.com/@anilktalla/why-container-virtualization-abb8bfc04048){documentation}
+    [Why Container Virtualization](https://anilktalla.medium.com/why-container-virtualization-abb8bfc04048){documentation}
   - >-
     [Reasons to start using a
     VM](https://www.makeuseof.com/tag/reasons-start-using-virtual-machine/){article}

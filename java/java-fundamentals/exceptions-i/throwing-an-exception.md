@@ -4,7 +4,7 @@ type: normal
 category: must-know
 links:
   - >-
-    [How to Handle Exceptions Better](http://crunchify.com/better-understanding-on-checked-vs-unchecked-exceptions-how-to-handle-exception-better-way-in-java/){website}
+    [How to Handle Exceptions Better](https://www.geeksforgeeks.org/java/java-checked-vs-unchecked-exceptions/){website}
 notes: |
   https://insights.enki.com/#/contrib/55a3b45d2a4a89320042e651
 revisionQuestion:

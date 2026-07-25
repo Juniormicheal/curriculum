@@ -4,7 +4,7 @@ type: normal
 category: must-know
 links:
   - >-
-    [www.restapitutorial.com](http://www.restapitutorial.com/lessons/httpmethods.html){website}
+    [www.restapitutorial.com](https://www.restapitutorial.com/introduction/httpmethods){website}
   - >-
     [developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods){website}
 practiceQuestion:

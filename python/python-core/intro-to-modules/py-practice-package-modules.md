@@ -10,7 +10,6 @@ links:
   - >-
     [link to deeper dive blog
     post](https://docs.python.org/3/tutorial/modules.html){website}
-  - '[link to a video](https://www.youtube.com/watch?v=V-GZxNLOMXs){video}'
 ---
 
 # Practice package modules

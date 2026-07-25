@@ -3,14 +3,14 @@ author: mihaiberq
 type: normal
 category: must-know
 links:
-  - '[Scrimba CSS Margins](https://scrimba.com/p/pWvwCg/cpKPmh9){tutorial}'
+  - '[Scrimba CSS Margins](https://v1.scrimba.com/scrim/cpKPmh9?pl=pWvwCg){tutorial}'
   - >-
     [MDN Docs on
     Margin](https://developer.mozilla.org/en-US/docs/Web/CSS/margin){documentation}
   - >-
     [MDN Docs on
     Padding](https://developer.mozilla.org/en-US/docs/Web/CSS/padding){documentation}
-  - '[Scrimba CSS Padding](https://scrimba.com/p/pWvwCg/czM84uZ){tutorial}'
+  - '[Scrimba CSS Padding](https://v1.scrimba.com/scrim/czM84uZ?pl=pWvwCg){tutorial}'
 practiceQuestion:
   formats:
     - fill-in-the-gap

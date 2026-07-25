@@ -8,7 +8,7 @@ links:
     structure](https://www.geeksforgeeks.org/heap-data-structure/){website}
   - >-
     [Binary
-    Heap](https://www.cs.cmu.edu/~rdriley/121/notes/heaps.html#3-binary-heap){website}
+    Heap](https://www.andrew.cmu.edu/course/15-121/lectures/Binary%20Heaps/heaps.html){website}
 practiceQuestion:
   formats:
     - fill-in-the-gap

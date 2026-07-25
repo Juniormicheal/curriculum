@@ -4,7 +4,7 @@ type: normal
 category: how-to
 links:
   - >-
-    [linux.about.com](http://linux.about.com/od/howtos/fl/Boast-How-Long-Your-Linux-System-Has-Been-Running-Using-uptime.htm){website}
+    [Linux Uptime Command](https://www.tecmint.com/linux-uptime-command-examples/){website}
 revisionQuestion:
   formats:
     - fill-in-the-gap

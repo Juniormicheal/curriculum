@@ -5,7 +5,7 @@ category: caveats
 links:
   - >-
     [Binding Docker
-    Ports](https://runnable.com/docker/binding-docker-ports){article}
+    Ports](https://docs.docker.com/engine/network/port-publishing/){article}
 practiceQuestion:
   formats:
     - fill-in-the-gap

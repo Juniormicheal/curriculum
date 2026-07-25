@@ -4,7 +4,7 @@ type: normal
 category: how-to
 links:
   - >-
-    [Netflix Dataset](https://www.kaggle.com/shivamb/netflix-shows/version/3){website}
+    [Netflix Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows){website}
    
 revisionQuestion:
   formats:

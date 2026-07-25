@@ -14,10 +14,7 @@ links:
     documentation](https://dev.mysql.com/doc/refman/5.7/en/create-index.html){documentation}
   - >-
     [blog post on MySQL define
-    tables](https://atech.blog/viaduct/mysql-indexes-primer){website}
-  - >-
-    [video tutorial on creating
-    indexes](https://youtu.be/19eLh1ZdoLY?t=56s){video}
+    tables](https://krystal.io/blog/post/mysql-indexes-primer){website}
   - >-
     [video tutorial on the differences between clustered and non-clustered
     index](https://www.youtube.com/watch?v=ITcOiLSfVJQ){video}

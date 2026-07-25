@@ -7,7 +7,7 @@ category: must-know
 links:
   - >-
     [Organize Your
-    Spreadsheets](https://towardsdatascience.com/organize-your-spreadsheets-for-data-analysis-and-visualization-b1985a31523a){website}
+    Spreadsheets](https://medium.com/data-science/organize-your-spreadsheets-for-data-analysis-and-visualization-b1985a31523a){website}
 practiceQuestion:
   formats:
     - fill-in-the-gap

@@ -7,7 +7,7 @@ levels:
 type: normal
 category: feature
 links:
-  - '[www.2ality.com](http://www.2ality.com/2015/01/es6-maps-sets.html){website}'
+  - '[Map and Set Guide](https://javascript.info/map-set){website}'
   - >-
     [MDN -
     Set](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set){website}

@@ -5,7 +5,7 @@ category: must-know
 links:
   - >-
     [Scrimba CSS Position
-    Property](https://scrimba.com/p/pWvwCg/c2vEnHR){website}
+    Property](https://v1.scrimba.com/scrim/c2vEnHR?pl=pWvwCg){website}
   - >-
     [MDN Docs on
     Positioning](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Positioning){documentation}

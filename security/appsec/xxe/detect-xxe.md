@@ -8,7 +8,7 @@ links:
     Processing](https://owasp.org/www-community/vulnerabilities/XML_External_Entity_(XXE)_Processing){website}
   - >-
     [XXE Exploit
-    Walkthrough](https://resources.infosecinstitute.com/finding-and-exploiting-xxe-xml-external-entities-injection/#gref){website}
+    Walkthrough](https://www.infosecinstitute.com/resources/penetration-testing/finding-and-exploiting-xxe-xml-external-entities-injection/){website}
 practiceQuestion:
   formats:
     - fill-in-the-gap

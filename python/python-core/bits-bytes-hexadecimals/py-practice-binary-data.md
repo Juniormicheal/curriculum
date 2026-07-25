@@ -6,7 +6,7 @@ linkType: codewars
 links:
   - >-
     [link to official
-    documentation](https://www.devdungeon.com/content/working-binary-data-python){website}
+    documentation](https://www.digitalocean.com/community/tutorials/python-struct-pack-unpack){website}
   - '[link to a video](https://www.youtube.com/watch?v=f5dU3xoE6ms){video}'
 ---
 

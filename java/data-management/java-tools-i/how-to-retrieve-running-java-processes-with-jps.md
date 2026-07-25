@@ -5,7 +5,7 @@ category: feature
 links:
   - >-
     [java.sun.com](http://java.sun.com/j2se/1.5.0/docs/tooldocs/share/jps.html){website}
-  - '[andunix.net](https://andunix.net/info/java/jps){website}'
+  - '[JPS Command Usage](https://www.tutorialspoint.com/unix_commands/jps.htm){website}'
 notes: >-
   https://insights.enki.com/#/contrib/others/55f4294ed7d6642d0011872b?search=khandelwalrinki
 practiceQuestion:

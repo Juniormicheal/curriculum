@@ -6,7 +6,7 @@ links:
   - >-
     [ponyfoo.com](https://ponyfoo.com/articles/es6-strings-and-unicode-in-depth){website}
   - >-
-    [www.2ality.com](http://www.2ality.com/2013/09/javascript-unicode.html){website}
+    [Unicode in JS](https://javascript.info/unicode){website}
 practiceQuestion:
   formats:
     - fill-in-the-gap

@@ -7,10 +7,10 @@ tags:
   - implementation
   - database packages
 links:
-  - '[Psycopg2 package](http://initd.org/psycopg/){website}'
+  - '[Psycopg2 package](https://www.psycopg.org/){website}'
   - '[SQLAlchemy package](http://www.sqlalchemy.org/){website}'
-  - '[Psycopg documentation](http://initd.org/psycopg/docs/index.html){website}'
-  - '[Psycopg start guide](http://initd.org/psycopg/docs/usage.html){website}'
+  - '[Psycopg documentation](https://www.psycopg.org/docs/index.html){website}'
+  - '[Psycopg start guide](https://www.psycopg.org/docs/usage.html){website}'
   - >-
     [Using Python to query Postgres
     video](https://www.youtube.com/watch?v=8gd1DlXwzlY){website}

@@ -5,7 +5,7 @@ category: feature
 links:
   - >-
     [React This Props
-    Children](https://learn.co/lessons/react-this-props-children){website}
+    Children](https://react.dev/learn/passing-props-to-a-component){website}
   - >-
     [React
     Children](https://reactjs.org/docs/react-api.html#reactchildren){website}

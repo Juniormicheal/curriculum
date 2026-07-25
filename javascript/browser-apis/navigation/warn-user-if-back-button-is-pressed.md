@@ -4,7 +4,7 @@ type: normal
 category: feature
 links:
   - >-
-    [viralpatel.net](http://viralpatel.net/blogs/disable-back-button-browser-javascript/){website}
+    [Disable Back Button](https://www.geeksforgeeks.org/javascript/how-to-stop-browser-back-button-using-javascript/){website}
 practiceQuestion:
   formats:
     - fill-in-the-gap

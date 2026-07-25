@@ -12,9 +12,6 @@ links:
   - >-
     [More insight on boolean
     type](http://www.diveintopython3.net/native-datatypes.html){website}
-  - >-
-    [A video tutorial on boolean
-    type](https://www.youtube.com/watch?v=TkpNMvBrEUw){video}
 ---
 
 # Practice Lists and Booleans

@@ -7,7 +7,7 @@ tags:
   - numbers
 links:
   - >-
-    [www.2ality.com](http://www.2ality.com/2015/04/numbers-math-es6.html){website}
+    [ES6 Number Methods](https://javascript.info/number){website}
 practiceQuestion:
   formats:
     - fill-in-the-gap

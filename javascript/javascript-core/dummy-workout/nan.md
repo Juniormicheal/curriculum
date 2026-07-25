@@ -10,7 +10,7 @@ tags:
   - numbers
   - not-a-number
 links:
-  - '[www.2ality.com](http://www.2ality.com/2012/02/nan-infinity.html){website}'
+  - '[NaN Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/NaN){website}'
 practiceQuestion:
   formats:
     - fill-in-the-gap

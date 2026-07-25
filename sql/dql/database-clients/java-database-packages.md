@@ -12,7 +12,7 @@ links:
     JDBC](https://www.progress.com/faqs/datadirect-jdbc-faqs/why-do-we-need-jdbc){website}
   - >-
     [Postgres JDBC
-    driver](https://jdbc.postgresql.org/about/about.html){website}
+    driver](https://jdbc.postgresql.org/documentation/){website}
   - >-
     [Java Driver
     Interface](https://docs.oracle.com/javase/7/docs/api/java/sql/Driver.html){website}

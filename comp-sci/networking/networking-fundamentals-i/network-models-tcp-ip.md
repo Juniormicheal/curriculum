@@ -5,10 +5,10 @@ category: must-know
 links:
   - >-
     [Network
-    Models](http://what-when-how.com/data-communications-and-networking/network-models-data-communications-and-networking/){website}
+    Models](https://www.geeksforgeeks.org/computer-networks/difference-between-osi-model-and-tcp-ip-model/){website}
   - >-
     [The 7 Layers of the OSI
-    Model](http://www.webopedia.com/quick_ref/OSI_Layers.asp){website}
+    Model](https://www.webopedia.com/definitions/7-layers-of-osi-model/){website}
 practiceQuestion:
   formats:
     - fill-in-the-gap

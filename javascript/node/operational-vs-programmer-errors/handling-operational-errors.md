@@ -8,7 +8,7 @@ tags:
 links:
   - >-
     [Node JS and
-    Errors](https://www.joyent.com/node-js/production/design/errors){website}
+    Errors](https://github.com/goldbergyoni/nodebestpractices/blob/master/sections/errorhandling/operationalvsprogrammererror.md){website}
 practiceQuestion:
   formats:
     - fill-in-the-gap

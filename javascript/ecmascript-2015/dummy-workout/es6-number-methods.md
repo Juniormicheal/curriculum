@@ -8,7 +8,7 @@ type: normal
 category: tip
 links:
   - >-
-    [www.2ality.com](http://www.2ality.com/2015/04/numbers-math-es6.html){website}
+    [ES6 Number Methods](https://javascript.info/number){website}
   - >-
     [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number){website}
 practiceQuestion:

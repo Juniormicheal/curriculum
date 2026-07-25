@@ -7,7 +7,7 @@ tags:
   - testing
 links:
   - >-
-    [junit.sourceforge.net](http://junit.sourceforge.net/javadoc/org/junit/Assert.html){website}
+    [JUnit Assert Javadoc](https://javadoc.io/doc/junit/junit/latest/org/junit/Assert.html){website}
 practiceQuestion:
   formats:
     - fill-in-the-gap

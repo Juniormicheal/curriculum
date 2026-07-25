@@ -4,7 +4,7 @@ type: normal
 category: tip
 links:
   - >-
-    [confluence.atlassian.com](https://confluence.atlassian.com/display/CONFKB/How+to+fix+out+of+memory+errors+by+increasing+available+memory){website}
+    [Fix OutOfMemory Error](https://support.atlassian.com/confluence/kb/fix-javalangoutofmemoryerror-in-confluence/){website}
 notes: >-
   https://insights.enki.com/#/contrib/others/55f05ce11baba32f002fd31c?search=khandelwalrinki
 revisionQuestion:

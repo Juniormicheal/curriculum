@@ -49,6 +49,14 @@ Types of change:
 ### Fixed
 
 
+## July 23rd 2026
+
+### Fixed
+### Changed
+### Archived
+
+- [Whole Curriculum - Fix, change, remove links accross most topics](https://github.com/enkidevs/curriculum/pull/3394)
+
 ## July 16th 2026
 
 ### Fixed

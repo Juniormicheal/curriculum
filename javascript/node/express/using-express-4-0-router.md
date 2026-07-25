@@ -4,7 +4,7 @@ type: normal
 category: must-know
 links:
   - >-
-    [scotch.io](https://scotch.io/tutorials/learn-to-use-the-new-router-in-expressjs-4){website}
+    [Express Router Guide](https://expressjs.com/en/guide/routing/){website}
 practiceQuestion:
   formats:
     - fill-in-the-gap

@@ -8,10 +8,10 @@ links:
     Selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors){documentation}
   - >-
     [Scrimba CSS Selectors, Properties &
-    Values](https://scrimba.com/p/pWvwCg/cpKbvTV){website}
+    Values](https://v1.scrimba.com/scrim/cpKbvTV?pl=pWvwCg){website}
   - >-
     [Scrimba CSS Classes and
-    ID's](https://scrimba.com/p/pWvwCg/cBQp9Cw){website}
+    ID's](https://v1.scrimba.com/scrim/cBQp9Cw?pl=pWvwCg){website}
 practiceQuestion:
   formats:
     - fill-in-the-gap

@@ -9,7 +9,7 @@ links:
   - >-
     [javarevisited.blogspot.gr](http://javarevisited.blogspot.gr/2012/06/junit4-annotations-test-examples-and.html){website}
   - >-
-    [junit.sourceforge.net](http://junit.sourceforge.net/javadoc/org/junit/Ignore.html){website}
+    [JUnit Ignore Javadoc](https://javadoc.io/doc/junit/junit/latest/org/junit/Ignore.html){website}
 ---
 
 # Use `@Ignore` to disable JUnit tests
